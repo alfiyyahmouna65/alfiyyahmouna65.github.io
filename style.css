@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image: url(cream.jpg);
+    background-size: cover;
+    height: 850px;
+    text-align: center;
+    margin-top: -330px;
+}
+.jumbotron .display-4 {
+    color: rgb(0, 0, 0);
+    margin-top: 300px;
+}
+.jumbotron p {
+    color: black;
+    font-size: x-large;
+}
+.jumbotron hr{
+    border-color: rgb(10, 83, 49);
+    width: 70px;
+    border-width: 3px;
+}

@@ -1,0 +1,23 @@
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #388e3c00;}
+li{float:
+     left;}
+li a{ display: block
+    ;color: rgb(0, 0, 0)
+    ;text-align:
+     center;
+    padding: 14px 16px; 
+    text-decoration:none;}
+    body{background-color: 
+        rgb(92, 172, 92, 0.863);}
+li a:hover 
+
+table, th, td {border:
+     2px solid rgb(27, 100, 39);}
+img  {display: block;
+    border-radius:
+     20%;border: 
+     5px solid  rgba(64, 133, 64, 0.774)}
